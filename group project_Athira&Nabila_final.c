@@ -1,8 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-/* Athira Jasmine S
-Nabila Ayu A */
+/* Athira Jasmine&Nabila Ayu A */
 
 struct node {
 
